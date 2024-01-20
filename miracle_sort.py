@@ -1,4 +1,4 @@
-def miracle_sort(arr: []) -> arr[]:
+def miracle_sort(arr: []) -> []:
   """ 'And, when you want something, all the universe conspires in helping
       you to achieve it' - Melchizedek, the King of Salem (from 'The Alchemist').
   """
